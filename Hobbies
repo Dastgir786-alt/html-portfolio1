@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <meta charset="UTF-8">
+    <title>Hobbies</title>
+
+    <body>
+        <h1>Hobbies
+            <hr />
+            <ol>
+                <li>Travelling</li>
+                <li>Book Reading</li>
+                <li>PS Games</li>
+                <li>Exploring New Opportunities</li>
+            </ol>
+        </h1>
+    </body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
